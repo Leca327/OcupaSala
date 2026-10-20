@@ -203,12 +203,12 @@ ocupasala/
 
 | Integrante | Responsabilidade |
 |---|---|
-| **Adriel Barbosa de Freitas** | Pesquisa e planejamento |
-| **Camile Pimenta Monteiro** | Bluetooth e comunicação · diagramas e documentação |
+| **Adriel Barbosa de Freitas** | Documentação |
+| **Camile Pimenta Monteiro** | Bluetooth e comunicação · diagramas e documentação · dashboard |
 | **Daniel Salgueiro Puga Paiva de Andrade** | Testes e integração |
-| **Fabio Cezar Paiva Paixão** | Testes e integração |
-| **Gustavo Pereira Fernandes Souto** | Diagramas e documentação · dashboard |
-| **Letícia dos Reis Prado** | Programação do Arduino · Bluetooth e comunicação |
+| **Fabio Cezar Paiva Paixão** | Testes e integração · diagramas e documentação |
+| **Gustavo Pereira Fernandes Souto** | Testes e integração · Diagramas e documentação |
+| **Letícia dos Reis Prado** | Programação e montagem do Arduino · Documentação · Bluetooth e comunicação |
 
 Todos participaram da montagem do hardware, da integração e da apresentação.
 
